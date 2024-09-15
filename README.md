@@ -8,4 +8,4 @@ A análise de dados também pode ser usada para identificar padrões em grandes 
 
 Outra área em que a análise de dados é amplamente utilizada na diabetes é na monitorização contínua da glicemia. Os dispositivos de monitorização contínua da glicemia (CGM) fornecem aos pacientes com diabetes dados em tempo real sobre seus níveis de glicose no sangue. Esses dados podem ser analisados para identificar padrões e tendências de glicemia, bem como identificar os fatores que afetam os níveis de glicose no sangue, como alimentação, exercício e estresse. Essas informações podem ser usadas para ajustar a medicação e as práticas de autocuidado dos pacientes para manter níveis de glicose no sangue saudáveis.
 
-Em resumo, a análise de dados desempenha um papel crucial na compreensão e no tratamento da diabetes. Os dados podem ser usados para identificar padrões e tendências, personalizar tratamentos e desenvolver abordagens de cuidados mais eficazes para pacientes com diabetes.
+
