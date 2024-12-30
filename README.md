@@ -6,6 +6,7 @@ Uma das principais ferramentas de análise de dados usadas na diabetes é a aná
 A análise de dados também pode ser usada para identificar padrões em grandes conjuntos de dados de pacientes com diabetes. Por exemplo, os dados podem ser usados para identificar grupos de pacientes com diabetes que compartilham características semelhantes, como idade, IMC e tempo desde o diagnóstico. Essas informações podem ser usadas para desenvolver abordagens de tratamento mais personalizadas e eficazes para pacientes com diabetes.
 
 
+
 ## 🛠️ Instalação
 
 1. Clone este repositório
