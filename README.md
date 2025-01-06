@@ -1,4 +1,4 @@
-# Teste A-B
+# Teste A/B para avaliar o risco e a probabilidade de desenvolvimento de diabetes
 
 A análise de dados é uma área importante no campo da saúde, especialmente no que diz respeito à diabetes. A análise de dados pode fornecer insights valiosos sobre a prevalência da diabetes, as características dos pacientes com diabetes, as tendências de tratamento e as taxas de sucesso do tratamento. Além disso, a análise de dados também pode ser usada para prever a probabilidade de uma pessoa desenvolver diabetes com base em seus fatores de risco.
 
